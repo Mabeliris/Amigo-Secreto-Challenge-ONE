@@ -43,7 +43,7 @@ El Challenge Amigo Secreto forma parte de la formación del programa ONE (Oracle
 
 ## 4. Acceso al proyecto
 
-**Link al proyecto:** [Agregar el link aquí]
+**Link al proyecto:** [https://mabeliris.github.io/Amigo-Secreto-Challenge-ONE/]
 
 **Instrucciones para ejecutar el proyecto:**
 1. Clonar el repositorio
