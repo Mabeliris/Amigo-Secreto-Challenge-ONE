@@ -19,7 +19,7 @@ El Challenge Amigo Secreto forma parte de la formación del programa ONE (Oracle
 
 ### Vista previa del proyecto
 
-![Amigo Secreto imagen](./challenge-amigo-secreto_esp-main/assets/Amigo_Secreto_readme.png)
+![Amigo Secreto imagen](./assets/Amigo_Secreto_readme.png)
 
 
 
